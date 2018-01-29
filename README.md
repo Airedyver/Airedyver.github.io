@@ -18,10 +18,10 @@
   <ul>
     <li><a href="https://www.linkedin.com/in/ashley-claire-johnson-m-p-a-48240b1b/" target="_blank">My linkedin page</a></li>
     <li><a href="https://lifehacker.com/" target="_blank">Life Hacker</a></li>
-    <li><a href="http://fivethirtyeight.com/" target="_blank">Five Thrirty Eight</a></li>
+    <li><a href="http://fivethirtyeight.com/" target="_blank">Five Thirty Eight</a></li>
   </ul>
 <table>
-  <caption>Regional Sales Q1 </caption>
+  <caption>Favorites </caption>
   <thead>
     <tr>
       <th scope="col">Favorite Book</th>
