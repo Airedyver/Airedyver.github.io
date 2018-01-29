@@ -7,7 +7,7 @@
 <body>
   <h1>Airedyver's Bio</h1>
   <hr>
- <img width="200" src=""https://i.ytimg.com/vi/tntOCGkgt98/maxresdefault.jpg"" alt="Shiny Happy People">
+ <img width="200" src="http://lorempixel.com/400/200/" alt="Shiny Happy People">
 
   <h3>Some Things about me</h3>
   <h4>Airedyver has an extreme curiosity for studying people.She has over 10 years of customer service experience under her belt, everything from cleaning restrooms to resolving communication issues between the public and a City government. As a City government employee, she gained an interest in analyzing and presenting data to the public and for the public good. She knows Python, is an Excel Wizard and loves math, especially statistics. With a Bachelor’s Degree in Anthropology, a Master’s Degree in Public Administration, she is currently furthering her studies in Data Analysis.</h4>
