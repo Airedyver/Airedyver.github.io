@@ -20,3 +20,22 @@
     <li><a href="https://lifehacker.com/" target="_blank">Life Hacker</a></li>
     <li><a href="http://fivethirtyeight.com/" target="_blank">Five Thrirty Eight</a></li>
   </ul>
+<table>
+  <caption>Regional Sales Q1 </caption>
+  <thead>
+    <tr>
+      <th scope="col">Favorite Book</th>
+      <th scope="col">Favorite Movie</th>
+      <th scope="col">Favorite Color</th>
+      <th scope="col">Favorite TV Show</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="row">The Blue Sword</th>
+      <td>Thouroughly Modern Millie</td>
+      <td>Green</td>
+      <td>Super Girl</td>
+    </tr>
+      </tbody>
+</table>
